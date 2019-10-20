@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+
+body{
+    margin: 200px 400px;
+    padding: 0;
+    text-align: center;
+
+}
+
+.btn-grid{
+    display:grid;
+    width: 100px;
+    margin: auto;
+}
+
+.btn{
+    background-color: purple;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    height: 25px;
+    margin: 5px
+
+}
+
+.start-btn, .next-btn{
+    background-color: blue;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+.hide{
+    display: none;
+}
